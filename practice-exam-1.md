@@ -1,4 +1,4 @@
-# Practice Exam 1
+# AWS Cloud Practitioner - Practice Exam 1
 
 Click on the **Answer** button for the correct answer and its explanation.
 
