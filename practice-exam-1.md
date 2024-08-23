@@ -1349,7 +1349,7 @@ Amazon RDS bietet die Multi-AZ-IFunktionur eine bessere Verfugbarkeit von Datenb
 
     A. Multi-AZ encrypts RDS instance data.
     B. Multi-AZ allows read replicas of RDS im,tances across availability zones.
-    C. Multi-AZ maintains standby replica.s of RDS instances in different availability zones
+    C. Multi-AZ maintains standby replicas of RDS instances in different availability zones
     D. Multi-AZ allows peening connections between VPCs
 
 
@@ -1460,7 +1460,7 @@ Welches Konzept bring! die spezifischen Anforderungen zwischen Cloud-Benutzer un
 **Q10: How does using Infrastructure as a Service (laaS) help companies' ?**
 
 
-    A. laaSis fully managed by the provider
+    A. laaS is fully managed by the provider
     B. Eliminates infrastructure costs
     C. Provides rapid innovation capabilities
     D. Reduces need for data center space
@@ -1688,7 +1688,7 @@ Welches Konzept bring! die spezifischen Anforderungen zwischen Cloud-Benutzer un
     A. RDS provides extremely high reliability a11d durability
     B. RDS simplifies tasks related to managing relational databases.
     C. RDS databases automatically scale based on load.
-    D. RDS enables users to dynamically adjust CPU .and RAM resources.
+    D. RDS enables users to dynamically adjust CPU and RAM resources.
 
 
 <details markdown=1><summary markdown='span'>Answer</summary>
@@ -1884,7 +1884,7 @@ Welches Konzept bring! die spezifischen Anforderungen zwischen Cloud-Benutzer un
 
 
 <details markdown=1><summary markdown='span'>Answer</summary>
-    Answer – B and D
+    Answer – A and B
 </details>
 
 
@@ -1954,7 +1954,7 @@ Welches Konzept bring! die spezifischen Anforderungen zwischen Cloud-Benutzer un
 
 ---
 
-**Q41: Which AWS service can be used as a p1·ivate Git repository?**
+**Q41: Which AWS service can be used as a private Git repository?**
 
 
     A. CodeBuild
@@ -2270,7 +2270,7 @@ Welches Konzept bring! die spezifischen Anforderungen zwischen Cloud-Benutzer un
 
 
 <details markdown=1><summary markdown='span'>Answer</summary>
-    Answer – B
+    Answer – C
 </details>
 
 
@@ -2295,7 +2295,7 @@ Welches Konzept bring! die spezifischen Anforderungen zwischen Cloud-Benutzer un
 **Q62: Which of the following is the correct URL for accessing the AWS Management Console?**
 
 
-    A. https://console.aws.arnaz.on.com
+    A. https://console.aws.amazon.com
     B. https://mgmt.aws.com
     C. https://console.aws.com
     D. https://console.amazon.com
@@ -2336,3 +2336,174 @@ Welches Konzept bring! die spezifischen Anforderungen zwischen Cloud-Benutzer un
 <details markdown=1><summary markdown='span'>Answer</summary>
     Answer – B
 </details>
+
+
+---
+
+**Q65: Which AWS tool can help identify unused Amazon EC2 instances to reduce costs?**
+
+
+    A. AWS Config
+    B. AWS Trusted Advisor
+    C. AWS Cost Explorer
+    D. AWS Budgets
+
+
+<details markdown=1><summary markdown='span'>Answer</summary>
+    Answer – B
+</details>
+
+
+---
+
+**Q66: What action does an Elastic Load Balancer (ELB) take when it detects an unhealthy Amazon EC2 instance?**
+
+
+    A. It only sends traffic to the remaining healthy instances.
+    B. It terminates the failed instance so that it is not part of the ELB target group.
+    C. It restarts the unhealthy EC2 instance.
+    D. It continues to send traffic to the failed instance.
+
+
+<details markdown=1><summary markdown='span'>Answer</summary>
+    Answer – A
+</details>
+
+
+---
+
+**Q67: Which AWS tool can help identify potential cost savings by looking for idle and underutilized resources?**
+
+
+    A. AWS Trusted Advisor
+    B. AWS Config
+    C. AWS Budgets
+    D. AWS Cost Explorer
+
+
+<details markdown=1><summary markdown='span'>Answer</summary>
+    Answer – A
+</details>
+
+
+---
+
+**Q68: What are two true statements about AWS Secrets Manager?**
+
+
+    A. It encrypts data at rest.
+    B. It retrieves authentication information from a central repository using an API call.
+    C. It replaces hardcoding authentication information in code.
+    D. It replaces IAM users and roles.
+    E. It provides free storage.
+
+
+<details markdown=1><summary markdown='span'>Answer</summary>
+    Answer – B
+</details>
+
+
+---
+
+**Q69: Which of the following options is true for Security Groups related to the scenario?**
+
+    A. You can change a Security Group associated with an instance if the instance is in the running state.  
+    B. You can change a Security Group associated with an instance if the instance is in the hibernate state.  
+    C. You can change a Security Group only if there are no instances associated to it.  
+    D. The only Security Group you can change is the Default Security Group.
+
+
+<details markdown=1><summary markdown='span'>Answer</summary>
+    Answer – A
+</details>
+
+
+---
+
+**Q70: Which AWS component of the Billing Dashboard will track a user’s incurred billing throughout the month and provide a projected total bill for the month on a continual basis?**
+
+    A. Savings Plans 
+    B. Cost Explorer
+    C. AWS Budgets
+    D. Cost Categories
+
+
+<details markdown=1><summary markdown='span'>Answer</summary>
+    Answer – C
+</details>
+
+
+---
+
+**Q71: What are two benefits of deploying a relational database on Amazon RDS instead of Amazon EC2?**
+
+    A. Cost savings
+    B. Automatic backup
+    C. Software patching
+    D. Unlimited resources
+
+
+<details markdown=1><summary markdown='span'>Answer</summary>
+    Answer – B and C
+</details>
+
+
+---
+
+**Q72: You want to use AWS to back up your on-premises data in a seamless manner. Which AWS service would enable you to accomplish this?**
+
+    A. AWS Glacier
+    B. AWS Snow
+    C. AWS Containers
+    D. AWS Storage Gateway
+
+
+<details markdown=1><summary markdown='span'>Answer</summary>
+    Answer – D
+</details>
+
+
+---
+
+**Q73: Which AWS service provides offerings to help achieve outcomes related to adopting AWS Cloud through paid engagements?**
+
+    A. AWS Technical Account Manager
+    B. AWS Professional Services
+    C. AWS Enterprise Support
+    D. Concierge Support
+
+
+<details markdown=1><summary markdown='span'>Answer</summary>
+    Answer – B
+</details>
+
+
+---
+
+**Q74: According to the AWS Shared Responsibility Model, who is responsible for managing the operating system and configuration of the Amazon RDS database instances?**
+
+    A. The customer
+    B. It is shared
+    C. AWS
+
+
+<details markdown=1><summary markdown='span'>Answer</summary>
+    Answer – A
+</details>
+
+
+---
+
+**Q75: A company wants to use AWS storage. Low storage cost is very important for them. Their data is rarely needed and waiting 13-14 hours to get the data back is acceptable. What is the best storage option for the company to use?**
+
+    A. Amazon EBS
+    B. Amazon S3 Glacier
+    C. S3 Glacier Deep Archive
+    D. Amazon S3
+
+
+<details markdown=1><summary markdown='span'>Answer</summary>
+    Answer – C
+</details>
+
+
