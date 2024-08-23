@@ -725,7 +725,7 @@ Customers are responsible for the security of the following assets:
     Customers who are comfortable with EC2 can then use the EC2 creation wizard or API to create a new EC2 instance as they would from an existing EC2 AMI.
 *   **Option D** is **INCORRECT** . A LightSail-EC2 snapshot is an invalid option.
 
-![LightSail instance in EC2](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201146%20280'%3E%3C/svg%3E "Instance in EC2 Console")
+![LightSail instance in EC2](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2011%20280'%3E%3C/svg%3E "Instance in EC2 Console")
 
 ![LightSail instance in EC2](https://www.whizlabs.com/blog/wp-content/uploads/2022/01/cc25.webp "Instance in EC2 Console")
 
@@ -2038,7 +2038,7 @@ Welches Konzept bring! die spezifischen Anforderungen zwischen Cloud-Benutzer un
 
 
     A. Data transfer from one AWS region to another
-    B. Data tra11sfer to Amazon Cloud Front
+    B. Data transfer to Amazon Cloud Front
     C. Lifecycle transitions between storage classes
     D. Data transfer within the same AWS region
     E. Uploading data to an S3 bucket
