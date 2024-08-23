@@ -2185,7 +2185,7 @@ Welches Konzept bring! die spezifischen Anforderungen zwischen Cloud-Benutzer un
     A. System of record
     B. Identity provider
     C. LDAP
-    D. Service providerDecoupling
+    D. Service provider
     E. Application
 
 
@@ -2399,7 +2399,7 @@ Welches Konzept bring! die spezifischen Anforderungen zwischen Cloud-Benutzer un
 
 
 <details markdown=1><summary markdown='span'>Answer</summary>
-    Answer – B
+    Answer – B and C
 </details>
 
 
