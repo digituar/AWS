@@ -2037,7 +2037,7 @@ Welches Konzept bring! die spezifischen Anforderungen zwischen Cloud-Benutzer un
 **Q46: I have a large amount of data (images, documents) that I want to store in the AWS S3 storage service. I want to understand how S3 is priced to make informed decisions. Which two of the following are accounted as costs for S3 storage?**
 
 
-    A. Data transfer from one AWS region to a11other
+    A. Data transfer from one AWS region to another
     B. Data tra11sfer to Amazon Cloud Front
     C. Lifecycle transitions between storage classes
     D. Data transfer within the same AWS region
@@ -2196,7 +2196,7 @@ Welches Konzept bring! die spezifischen Anforderungen zwischen Cloud-Benutzer un
 
 ---
 
-**Q56: What benefits are included with an Enterprise Support plan from Amazon Web Services?**
+**Q56: What benefits are included with an Enterprise Support plan from Amazon Web Services?(Choose two.)**
 
 
     A. Technical Account Manager
